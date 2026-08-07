@@ -1,13 +1,21 @@
 # PyCharm
 .idea/
 
+
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+
 
 # Jupyter
 .ipynb_checkpoints/
 
+
 # Environment
 .env
-.venvS
+.venv/
+venv/
+
+
+# VS Code
+.vscode/
